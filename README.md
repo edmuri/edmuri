@@ -1,6 +1,4 @@
-Hi, I'm Eduardo Murillo. 
-
-I'm a Computer Science student at UIC looking to develop my software engineering skills. 
+Hi, I'm Eduardo Murillo.  
 
 Languages: Python, C, C++
 
