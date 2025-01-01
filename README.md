@@ -1,6 +1,6 @@
 Hi, I'm Eduardo Murillo.  
 
-Languages: Python, C, C++
+Languages: C, C++, Java, Python
 
 <!---
 edmuri/edmuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
