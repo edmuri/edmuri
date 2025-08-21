@@ -1,4 +1,4 @@
-Hi, I'm Eduardo Murillo
+### Eduardo Murillo
 
 ---
 ### Tech Stack
@@ -31,5 +31,5 @@ Hi, I'm Eduardo Murillo
 ---
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmuri&theme=transparent)](https://github.com/edmuri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmuri&theme=transparent&hide_progress=true)](https://github.com/edmuri)
 ---
