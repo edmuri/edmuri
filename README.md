@@ -8,7 +8,6 @@
     <li>💡 Primarily a backend developer</li>
 </ul>
 
-Feel free to take a look around!
 ---
 ### 👽: Tech Stack
 ###### Languages
