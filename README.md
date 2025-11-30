@@ -1,14 +1,14 @@
-### Eduardo Murillo
----
-### About Me
+# Eduardo Murillo
 
-<ul>
-    <li>Currently a student at UIC!</li>
-    <li>Spending my free time exploring all the options that come from a CS degree</li>
-    <li>Primarily a backend developer</li>
-</ul>
+Based in Chicago
 
+Senior at University of Illinois Chicago, Graduating in May 2026
+
+### Contact Me
+
+<!--
 ### ⚡ Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmuri&theme=transparent&hide_progress=true)](https://github.com/edmuri)
 ---
+-->
