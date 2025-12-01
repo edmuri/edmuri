@@ -1,8 +1,6 @@
-# Eduardo Murillo
-
-Based in Chicago
-
-Senior at University of Illinois Chicago, Graduating in May 2026
+# Hi, I'm Eduardo Murillo
+🌍 Based in Chicago  
+🎓 Pursuing B.S. in CS at UIC
 
 ### Contact Me
 
