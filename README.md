@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Murillo
 🌍 Based in Chicago  
-🎓 Pursuing B.S. in CS at UIC
+🎓 B.S. in CS • UIC '26
 
 ### Contact Me
 
